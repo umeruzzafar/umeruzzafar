@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @umeruzzafar
 -born in 18 MAY
--i am learning about computers,softwarese.t.c
+-i am learning about computers,softwares,e.t.c
 -i also like gaming
 -i love free fire
 
