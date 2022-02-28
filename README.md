@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @umeruzzafar
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+-born in 18 MAY
+-i am learning about computers,softwarese.t.c
+-i also like gaming
+-i love free fire
+
 
 <!---
 umeruzzafar/umeruzzafar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
